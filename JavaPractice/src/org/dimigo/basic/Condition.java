@@ -55,6 +55,7 @@ public class Condition {
 					System.out.println("통행료: "+(pay+400)+"원");
 				else 
 					System.out.println("?");
+				
 			}
 
 		}
