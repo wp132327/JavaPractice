@@ -25,7 +25,7 @@ public class Condition {
 					System.out.println("?");
 			}
 			break;
-		
+			
 		case "경차":
 			System.out.println("거리: "+distance+"km");
 			System.out.println("차종: 경차");
