@@ -22,10 +22,6 @@ public class Car {
 	private int maxSpeed;
 	private int price;
 	
-	public Car(){
-			
-	}
-	
 	public String getCompany(){
 		return company;
 	}
