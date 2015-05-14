@@ -43,6 +43,7 @@ public class Score {
 		
 		System.out.println(score1);
 
+		scanner.close();
 	}
 
 }

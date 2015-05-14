@@ -27,7 +27,7 @@ public class Question {
 		
 		System.out.println("가장 좋아하는 가수는?");
 		answer=scanner.nextLine();
-		if("러블리즈".equals(answer)){
+		if("빅뱅".equals(answer)){
 			System.out.println("정답입니다.");
 			System.out.println();
 		}else{
@@ -56,6 +56,7 @@ public class Question {
 		}
 		
 
+		scanner.close();
 	}
 
 }
