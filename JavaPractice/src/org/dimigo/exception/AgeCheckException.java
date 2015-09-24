@@ -1,6 +1,9 @@
 /**
  * 
  */
+/**
+ * 
+ */
 package org.dimigo.exception;
 
 /**
