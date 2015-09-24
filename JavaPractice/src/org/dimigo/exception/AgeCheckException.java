@@ -26,4 +26,5 @@ package org.dimigo.exception;
 			public AgeCheckException(Movie movie) {
 				super(movie.getTitle() + "은/는 " + movie.getLimitAge() + "세 관람가입니다.");
 			}
+			
 	}

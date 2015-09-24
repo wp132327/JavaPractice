@@ -46,5 +46,6 @@ public class MovieTest {
 			System.out.println(movie.getTitle() + " 영화 즐감하세요~");
 		}
 	}
+	
 
 }
